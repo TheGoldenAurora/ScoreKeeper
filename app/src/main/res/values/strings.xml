@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Score Keeper</string>
+
+    <string name="title">Football Frenzy!</string>
+
+    <string name="teamA">Team A</string>
+    <string name="teamB">Team B</string>
+    <string name="score">Score: </string>
+    <string name="foul">Foul: </string>
+
+    <string name="initialScore">0</string>
+
+    <string name="vic_score">Victory!!! +3</string>
+    <string name="draw_score">Draw! +1</string>
+    <string name="foul_score">Foul... -1</string>
+
+
+    <string name="reset">Reset</string>
+    <string name="finalize">Finalize</string>
+
+
+</resources>
